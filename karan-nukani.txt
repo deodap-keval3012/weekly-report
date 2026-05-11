@@ -1,0 +1,161 @@
+──────────────────────────────────────────────────────
+WEEKLY WORK REPORT
+──────────────────────────────────────────────────────
+Employee Name     : Karan Nukani
+Department / Role : 27. Software Development / Senior Software Developer
+Week              : 04 May 2026 – 09 May 2026
+──────────────────────────────────────────────────────
+
+1. COMPLETED TASKS
+
+• **Shipping Panel – Super Admin Access Module**
+Developed and implemented the “Login-as-User” functionality for Super Admins to securely access customer accounts for troubleshooting and operational support. Feature completed and validated as discussed with Vijaybhai.
+
+• **Shipping Panel – Post-Booking Rate Sync Module**
+Developed a rate synchronization module to retroactively apply shipping charges for orders booked before rate card configuration. Successfully ensured financial accuracy between booking operations and delayed rate updates.
+
+• **Shipping Panel – Database & Performance Optimization**
+Conducted deep-dive analysis of slow-running database queries causing processing bottlenecks. Refactored and optimized scripts to improve execution speed and system stability during high-volume operations.
+
+• **Customer Notification System – SendGrid Integration**
+Developed and deployed an automated email notification system integrated with SendGrid. Successfully enabled shipment milestone alerts including Dispatched, In-Transit, Out for Delivery, Delivered, RTO, and Cancelled statuses.
+
+• **Customer Notification System – Live Testing & Verification**
+Performed live testing on production infrastructure and successfully processed 55 transactional emails. Verified functionality under the SendGrid trial environment.
+
+• **Wukusy Integration – Webhook Audit & Recovery**
+Audited outbound webhook requests and verified delivery success for Wukusy integrations. Re-sent missing tracking payloads to resolve reported synchronization gaps.
+
+• **Shipping Rate Export – Performance Optimization**
+Investigated and resolved report loading and export stability issues under large datasets. Optimized related database queries for improved reliability.
+
+• **Delhivery Integration – Booking Issue Resolution**
+Resolved API booking failures caused by special characters in shipment data. Fix was confirmed and validated with Chirag.
+
+• **Ekart Integration – Tracking Cron Refactor**
+Refactored the Ekart tracking cron process to align with the updated API version. Successfully restored and verified shipment status synchronization.
+
+• **Export Request Module – Queue-Based Processing**
+Implemented a Laravel Queue–based Export Request Module for handling heavy export operations asynchronously. Successfully configured Supervisor for queue worker management on the server.
+
+• **Rate Card Management – Bulk Export/Import Module**
+Developed a company-wise rate card export/import module enabling bulk shipping rate updates across couriers, pickup addresses, warehouses, and slabs/zones.
+
+• **Rapidmiles – Pickup Receipt Print Functionality**
+Collaborated on the design and implementation of Pickup Receipt Print functionality for operational use within the Rapidmiles workflow.
+
+• **Rapidmiles – PICKEDUP Order List Automation**
+Developed a new script to generate and print “PICKEDUP” order lists, streamlining warehouse handover and operational tracking processes.
+
+• **Rapidmiles – Automated Tracking Update Cron**
+Developed and deployed a cron job within the shipping panel to automate Rapidmiles tracking synchronization for real-time order status updates.
+
+• **Merchant Billing Module – Bug Resolution**
+Resolved critical data loading issues in the Merchant Login billing section, including Wallet History and Invoice display problems.
+
+• **Shipping Labels – UI/UX Sample Updates**
+Prepared and submitted updated shipping label samples for review and approval.
+
+• **Infrastructure & Security – SendGrid Verification Support**
+Managed the technical verification process for Twilio SendGrid and provided required configuration details to support account approval.
+
+• **Development Support – Claude.ai CLI Setup**
+Assisted with Claude.ai CLI installation and provided technical guidance on CLI usage for development workflows.
+
+2. IN PROGRESS TASKS
+
+• **ATS Carrier Integration – API Audit & Error Investigation**
+Investigated booking issues related to shipment dimensions, coverage validation, and Label API behavior. Further API-level validations and corrections remain pending.
+
+• **Queue-Based Export Migration – Shipping Reports**
+Initial queue infrastructure and testing completed successfully. Remaining task is migration of all large-scale export operations to the queue-based architecture to eliminate timeout issues.
+
+• **Shopify GraphQL Migration – Tracking Updates**
+Conducted technical analysis of Shopify GraphQL APIs for migration from REST-based tracking updates. Implementation and testing activities remain pending.
+
+• **Weight Dispute Automation – Courier Data Analysis**
+Reviewed and analyzed weight dispute API response structures for Bluedart and DTDC. Pending work includes preparation and implementation of automated dispute logging.
+
+• **Webhook Timeout Investigation**
+Continued troubleshooting of “Operation Timeout” issues in webhook responses in consultation with Lakhwinder. Root cause analysis and resolution remain in progress.
+
+• **Repository Architecture Evaluation – Multica & Paperclip**
+Reviewed repository structures and collected operational feedback regarding Paperclip performance and scalability. Final evaluation and recommendations remain pending.
+
+• **Purchase Module – Accounting Logic Alignment**
+Collaborated on resolving transaction date discrepancies affecting ledger entries. Remaining work involves final validation and accounting workflow confirmation.
+
+3. MEETINGS / DISCUSSIONS / REVIEWS
+
+• **Internal Feature Discussion – Super Admin Access**
+Discussed and finalized the “Login-as-User” implementation requirements with Vijaybhai.
+
+• **Email Notification System Review**
+Conducted implementation discussions with Vijaybhai and Samir Sir regarding automated shipment notification workflows and SendGrid deployment.
+
+• **Wukusy Integration Review**
+Coordinated with Himanshu regarding webhook delivery validation and missing tracking payload synchronization.
+
+• **Webhook Troubleshooting Discussion**
+Consulted with Lakhwinder regarding webhook “Operation Timeout” errors and response handling issues.
+
+• **Rapidmiles Development Coordination**
+Collaborated with Vivek regarding Pickup Receipt Print functionality and operational workflow improvements.
+
+• **Shopify Tracking Sync Review**
+Discussed tracking update failures and Shopify API permission scope mismatches with Uday and reported required credential updates to Vijaybhai.
+
+• **Courier Status Mapping Discussion**
+Coordinated with Uday to review and align courier order status mappings within the Rapidmiles ecosystem.
+
+• **ATS Technical Call**
+Participated in a technical discussion with Uday and Dharmesh (Amazon ATS) regarding return address configuration, dimension validation, and Label API troubleshooting.
+
+• **Weight Dispute API Review**
+Collaborated with Vijaybhai to review Bluedart and DTDC weight dispute API response structures for automation planning.
+
+• **SendGrid Subscription & Scalability Discussion**
+Demonstrated the SendGrid panel to Vijaybhai and discussed migration from trial to paid subscription for higher operational volume.
+
+• **Repository & Performance Evaluation Discussion**
+Reviewed Multica and Paperclip repositories with Samir Sir and consulted with Karanbhai regarding Paperclip scalability and performance feedback.
+
+• **Purchase Module Logic Review**
+Worked with Aarti to review transaction date handling logic within the Purchase Module for accounting accuracy.
+
+• **Operational Coordination – Warehouse Visit**
+Conducted weekly warehouse visit for operational coordination, strategy discussions, and team alignment activities.
+
+4. TOTAL PORTALS / PROJECTS WORKED ON
+
+Total: 14 portals / projects
+
+• Shipping Panel
+• Customer Notification System
+• SendGrid Integration
+• Wukusy Integration
+• Delhivery Integration
+• Ekart Integration
+• ATS Integration
+• Rapidmiles
+• Shopify Integration
+• Merchant Billing Module
+• Shipping Rate Export Module
+• Weight Dispute Automation
+• Multica Repository
+• Paperclip Repository
+
+5. UPCOMING WEEK — PLANNED TASKS
+
+• Complete migration of large-scale export processes to Laravel Queue–based execution architecture.
+• Continue ATS API issue resolution related to dimensions, coverage validation, and Label API behavior.
+• Begin implementation and testing of Shopify GraphQL–based tracking updates.
+• Continue webhook timeout troubleshooting and response optimization activities.
+• Proceed with automated weight dispute logging preparation for Bluedart and DTDC integrations.
+• Finalize evaluation and performance assessment for Multica and Paperclip repositories.
+• Complete validation and correction of accounting transaction date logic within the Purchase Module.
+• Monitor SendGrid email delivery performance and support transition planning from trial to paid subscription tier.
+
+──────────────────────────────────────────────────────
+END OF REPORT
+──────────────────────────────────────────────────────

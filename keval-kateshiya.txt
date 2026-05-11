@@ -1,0 +1,151 @@
+──────────────────────────────────────────────────────
+WEEKLY WORK REPORT
+──────────────────────────────────────────────────────
+Employee Name     : Keval Kateshiya
+Department / Role : Software Development Team
+Week              : 04 May 2026 – 09 May 2026
+──────────────────────────────────────────────────────
+
+### 1. COMPLETED TASKS
+
+• **Visitor Gate Pass**
+Conducted requirement discussions, coordinated development, reviewed implementation, and successfully deployed the updated Visitor Gate Pass module to the live environment. Final verification confirmed stable functionality across visitor entry and approval workflows.
+
+• **Call Monitor App**
+Resolved critical bugs related to call monitoring, optimized the codebase and application performance, generated an updated APK build, and coordinated QA validation to ensure stable operation.
+
+• **HR Panel**
+Fixed the visit date mismatch issue and resolved the “404 Page Not Found” error for resume access by correcting file path and storage logic. Performed complete testing and confirmed stable deployment.
+
+• **App Support Group**
+Created and organized a centralized App Support WhatsApp group, coordinated branding assets, onboarded relevant team members, and established communication guidelines for efficient issue handling.
+
+• **WMS Application – Search Filter Fix**
+Investigated and resolved search filter issues affecting warehouse operations, validated APIs, deployed fixes through an updated APK, and provided field-level support across warehouse locations.
+
+• **WMS Application – Low Stock Visibility Issue**
+Resolved incorrect stock visibility in the “Low Stocks” section by fixing database query and aggregation logic. Verified data accuracy across multiple warehouse scenarios and distributed a stable APK build.
+
+• **Job Application Form**
+Enhanced the public job application form by introducing the mandatory “Are you an Intern?” field with backend validation and database integration. Successfully completed end-to-end testing.
+
+• **HR Interview Panel**
+Integrated and validated intern status visibility within the HR Interview Panel, ensuring accurate real-time display across candidate profiles and interview records.
+
+• **HR Panel Project Deployment**
+Reviewed, reorganized, and validated the HR panel codebase after issue resolution. Conducted regression testing and successfully deployed the updated panel live.
+
+• **Shopify App Builder – Bug Resolution**
+Resolved multiple issues affecting app-building functionality, completed end-to-end Shopify integration testing, and stabilized the platform for production readiness.
+
+• **Wukusy Application – UI Review & Validation**
+Presented the latest UI implementation for stakeholder review, documented feedback, validated design consistency, identified UI/UX issues, and confirmed functionality after fixes.
+
+• **Call Monitor App – Research & Architecture Study**
+Conducted technical research on Android call recording feasibility, analyzed platform restrictions, evaluated implementation approaches, and documented architectural findings for future execution.
+
+• **Credit Card Management System**
+Completed foundational research, system planning, feature analysis, security consideration review, and prepared the preliminary architecture structure for the proposed system.
+
+• **API Testing & Training**
+Provided structured API testing guidance using Postman, demonstrated real project API validation methods, and resolved integration and testing issues during training sessions.
+
+• **Zoho Task Assigner Tool**
+Resolved all reported issues, validated final fixes through testing, packaged the updated codebase, and successfully deployed the tool for internal team usage.
+
+• **OMS App (Order Management System)**
+Improved order tracking and status flow, resolved data inconsistency issues, optimized backend processing logic, completed full lifecycle testing, and distributed the updated APK build.
+
+• **WMS App (Warehouse Management System)**
+Performed post-deployment validation, fixed reported operational issues, improved stock search and filtering functionality, confirmed real-time synchronization, and distributed a stable APK build.
+
+• **WMS Field Module**
+Improved usability for field staff, resolved critical data submission issues, enhanced compatibility across devices, and shared the updated build after extensive testing and user walkthroughs.
+
+• **Meetings & Reporting**
+Attended project review discussions, coordinated planning activities, and prepared and submitted the weekly Software Development Team PPT report.
+
+---
+
+### 2. IN PROGRESS TASKS
+
+• **Shopify App Builder**
+Continued enhancement and optimization of the application flow, including improvements to product listing, order management, and store configuration modules. Additional refinements and feedback incorporation remain pending.
+
+• **Wukusy App**
+Ongoing development based on stakeholder feedback, including navigation improvements, UI refinements, and design consistency updates. Final approval and further iteration remain pending.
+
+• **Zoho Connect Clone**
+Continued development of core collaboration features including messaging, task assignment, notifications, authentication, and session management. Additional module development and optimization are still in progress.
+
+• **Credit Card Management System**
+System architecture and feature planning have been completed. Development implementation and detailed module execution remain pending.
+
+• **Call Monitor App – Call Recording Integration**
+Research and feasibility analysis have been completed. Final implementation, testing, and production integration are yet to be initiated.
+
+---
+
+### 3. MEETINGS / DISCUSSIONS / REVIEWS
+
+• **Requirement Discussion – Visitor Gate Pass**
+Attended a detailed discussion with Ashwin Jagani regarding required changes, implementation expectations, and workflow improvements for the Visitor Gate Pass system.
+
+• **Project Review Meeting**
+Participated in a detailed review meeting with Sneha Ma’am covering project progress, operational blockers, upcoming priorities, and development resource planning.
+
+• **Wukusy UI Review Session**
+Conducted a UI review presentation with Karan Sir to demonstrate the latest Wukusy application design, collect feedback, and finalize required UI/UX improvements.
+
+• **Warehouse Support & Field Coordination**
+Met warehouse heads and operational staff across multiple warehouse locations to provide on-site WMS application support, collect feedback, and address operational concerns.
+
+• **Training & Onboarding Sessions**
+Conducted onboarding, React, React Native, API testing, and environment setup sessions for Nirav Bhai to ensure smooth integration into ongoing development activities.
+
+---
+
+### 4. TOTAL PORTALS / PROJECTS WORKED ON
+
+Total: 12 portals / projects
+
+• Visitor Gate Pass
+• Call Monitor App
+• HR Panel
+• App Support Group
+• WMS Application
+• Job Application Form
+• HR Interview Panel
+• Shopify App Builder
+• Wukusy App
+• Credit Card Management System
+• Zoho Task Assigner Tool
+• Zoho Connect Clone
+• OMS App
+• WMS Field Module
+
+---
+
+### 5. UPCOMING WEEK — PLANNED TASKS
+
+• Continue optimization and enhancement work on the Shopify App Builder platform, including pending improvements and feedback implementation.
+
+• Proceed with development and refinement of the Wukusy application based on stakeholder review feedback and internal testing observations.
+
+• Continue development of the Zoho Connect Clone project, focusing on communication modules, task management, and performance optimization.
+
+• Begin implementation planning and development execution for the Credit Card Management System architecture and core modules.
+
+• Continue research validation and prepare implementation planning for the Call Monitor App call recording feature.
+
+• Monitor stability and collect operational feedback for the WMS, OMS, and WMS Field applications after the latest APK deployments.
+
+• Continue supporting team onboarding, technical guidance, and training activities for ongoing project contributions.
+
+──────────────────────────────────────────────────────
+END OF REPORT
+──────────────────────────────────────────────────────
+
+
+
+

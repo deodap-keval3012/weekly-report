@@ -1,0 +1,78 @@
+──────────────────────────────────────────────────────
+WEEKLY WORK REPORT
+──────────────────────────────────────────────────────
+Employee Name     : Aarti Vara
+Department / Role : I.T / Sr.Laravel Developer
+Week              : 04 May 2026 – 09 May 2026
+──────────────────────────────────────────────────────
+
+1. COMPLETED TASKS (Vacalvers)
+
+   • Account Panel
+   Deployed updated code to the live environment and coordinated with Karan Sir for account panel testing. Deployment and testing handover completed successfully.
+
+   • OMS SKU Enable/Disable Stock Handling
+   Coordinated with Keval regarding OMS SKU handling to ensure stock retention when SKUs are disabled and accurate stock restoration after re-enabling. Related SKU functions were reviewed and validated.
+
+   • OMS Stock Sync Issue Investigation
+   Investigated “SKU not found” issues during OMS stock synchronization by validating OMS SKU ID and catalog product ID mappings. Identified the issue as an operational dependency caused by missing catalog products and communicated findings to Keval.
+
+   • Purchase Panel - Upcoming Inventory Data Optimization
+   Updated and optimized queries for upcoming inventory requirements. Verified data flow accuracy and ensured correct inventory output generation.
+
+   • Global Service – Delete SKU Functionality
+   Developed the Global Service functionality for the Delete SKU process as discussed with Romit Sir. Coordinated implementation flow and validations with Bharat Sir.
+
+   • SKU Import Validation & Testing
+   Tested Delete SKU functionality using SKU import files and verified expected execution flow and output accuracy.
+
+   • Warehouse Live Data Restoration Verification
+   verified the warehouse-related live issue after data restoration, as confirmed by Vijay Sir.
+
+   • Quick Reports Support & SQL Sharing
+   Shared Quick Reports access credentials with Bharat Sir and provided exploration details for purchase orders with item and status mapping. Also shared the fewer raw SQL queries with Karan Rangpara Sir for Google Sheet automation integration.
+
+   • Order Status Management
+   Shifted required orders from the Initiated tab to the Confirmed tab as requested by Sneha Ma’am. Verified updated order statuses and completed related Zoho task updates.
+
+2. IN PROGRESS TASKS
+
+   • Upcoming Inventory Product Listing
+   Worked on upcoming inventory product listing enhancements and reviewed requirements for adding new columns as requested by Bharat Sir. Column implementation and related validations remain pending. - it was on hold by bharat sir side. 
+
+   • Purchase Panel Related Changes
+   working on the date validation rule which is allow date range while doing the payment from the ledger.
+
+3. MEETINGS / DISCUSSIONS / REVIEWS
+
+   • Weekly IT Meeting
+   Attended the weekly IT meeting and discussed ongoing development tasks, operational updates, and system-level activities with the IT team.
+
+   • OMS SKU & Stock Handling Discussion
+   Coordinated discussions with Keval regarding OMS SKU enable/disable logic, stock retention handling, and stock synchronization issue analysis.
+
+   • Delete SKU Functionality Review
+   Discussed implementation flow, validation logic, and execution requirements for the Delete SKU process with Romit Sir and Bharat Sir.
+
+4. TOTAL PORTALS / PROJECTS WORKED ON
+
+   Total: 6 Panels / 1 Project (Vacalvers)
+
+   • OMS
+   • Account Panel
+   • Upcoming Inventory Module
+   • Global Service – Delete SKU Process
+   • Quick Reports
+   • Warehouse Order Management
+
+5. UPCOMING WEEK — PLANNED TASKS
+
+   • Continue implementation of additional columns and validations for the upcoming inventory product listing module.
+
+   • Monitor and validate OMS SKU enable/disable stock handling behavior after deployment and testing activities.
+
+   • Continue regarding the purchase panel ledger related points which were discussed with falguni ma'am.
+
+   • Support ongoing Quick Reports automation integration and related query validations.
+
+   • Verify pending operational updates and continue related Zoho task documentation and status tracking.

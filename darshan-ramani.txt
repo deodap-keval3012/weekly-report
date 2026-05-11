@@ -1,0 +1,167 @@
+──────────────────────────────────────────────────────
+# WEEKLY WORK REPORT
+──────────────────────────────────────────────────────
+
+**Employee Name**     : Darshan Bhai (Employee Code: 7261)
+**Department / Role** : IT Department
+**Week**              : 04 May 2026 – 09 May 2026
+
+──────────────────────────────────────────────────────
+
+## 1. COMPLETED TASKS
+
+ *1.Late-In Report — Enhancement and Redesign*
+→ Project / Portal : HR Panel — Late-In Report
+→ Action Taken     : Implemented Excel generation with status-, department-, and employee-wise filters; re-aligned the page design to mirror the eTime late-in report layout; excluded inactive employees from the listing.
+→ Final Status     : Completed and deployed.
+
+*2. Absent Report — Generation Module*
+→ Project / Portal : HR Panel — Absent Report
+→ Action Taken     : Built the absent report with Excel export and filters for date, status, department, and employee list; designed the page in line with the eTime absent report standard.
+→ Final Status     : Completed and deployed.
+
+*3. Employee Store Function — Inactive-Employee Validation Fix*
+→ Project / Portal : HR Panel — Employee Module
+→ Action Taken     : Updated the employee store function so the warehouse-conflict error is raised only when an employee is being marked inactive and other active employees still exist in the same warehouse.
+→ Final Status     : Completed and deployed.
+
+*4. Employee List Page — Sorting, Columns and Parent/Child Department Search*
+→ Project / Portal : HR Panel — Employee List
+→ Action Taken     : Set the default sort order to created-at descending; added employee-code-wise sorting; introduced the created-at column on the listing; enabled department search so that selecting a parent department also surfaces employees from all of its child departments.
+→ Final Status     : Completed and deployed.
+
+*5. Employee Add Page — Two-Card Redesign and Validation*
+→ Project / Portal : HR Panel — Employee Module
+→ Action Taken     : Redesigned the add page into a two-card layout separating mandatory fields from supplementary fields; added front-end and back-end validations; introduced image, ID card, and ID card backside upload fields.
+→ Final Status     : Completed and deployed.
+
+*6. Work Report Module — Modal Close Bug Fix*
+→ Project / Portal : HR Panel — Work Report
+→ Action Taken     : Resolved the defect that allowed users to close the submission modal before the submit process had completed.
+→ Final Status     : Completed and deployed.
+
+*7. Inactive-Employee Exclusion Across Daily Reports*
+→ Project / Portal : HR Panel — Daily Performance Report, Custom Daily Report, Late-In Report
+→ Action Taken     : When the status filter is not explicitly selected, inactive employees are now excluded from all listed daily reports.
+→ Final Status     : Completed and deployed.
+
+*8. Dashboard — Punch Counters, Absent Query and Missing-Information Tiles*
+→ Project / Portal : HR Panel — Dashboard
+→ Action Taken     : Added Present, Absent, Late-In, and Early-Out punch counters on the dashboard; refined the absent-count query across two iterations on the basis of internal recommendations; added missing image, ID card, and ID card backside count tiles.
+→ Final Status     : Completed and deployed.
+
+*9. Daily Report — UI Overhaul and Role-Wise Filter*
+→ Project / Portal : HR Panel — Daily Report
+→ Action Taken     : Redesigned the UI with employee search by name and code with auto-scroll-to-top behaviour; removed inactive employees from all four record types; added a role dropdown so that selecting a role filters the employee list, with the option to fetch results for an entire role when no individual employee is selected.
+→ Final Status     : Completed and deployed.
+
+*10. Monthly Report — UI Overhaul and Role-Wise Filter*
+→ Project / Portal : HR Panel — Monthly Report
+→ Action Taken     : Aligned the monthly report UI with the new daily report; added employee search by name and code; introduced a validation error when no date is selected; removed inactive employees; and added the role-based filter behaviour mirroring the daily report.
+→ Final Status     : Completed and deployed.
+
+*11. Employee Export — Search-Parameter Bug Fix*
+→ Project / Portal : HR Panel — Employee Module
+→ Action Taken     : Fixed the employee export so that all active search parameters are honoured during file generation.
+→ Final Status     : Completed and deployed.
+
+*12. Daily Punches List — Separated Code Column and Department Dropdown*
+→ Project / Portal : HR Panel — Daily Punches List
+→ Action Taken     : Separated employee name and code into distinct columns; integrated the new parent/child department dropdown.
+→ Final Status     : Completed and deployed.
+
+*13. Permission Module — Descriptions for 151 Permissions and Assign-Permission Page Redesign*
+→ Project / Portal : HR Panel — Permission Module
+→ Action Taken     : Added descriptive text for all 151 permissions to clarify each one's intended scope; updated the Assign Permission page so the description is now visible under every permission.
+→ Final Status     : Completed and deployed.
+
+*14. Nested Department Helper Function*
+→ Project / Portal : HR Panel — Department Module
+→ Action Taken     : Created a helper function to render parent and sub-departments together in dropdowns across the panel.
+→ Final Status     : Completed and deployed.
+
+*15. Department Dropdown Roll-Out Across Modules*
+→ Project / Portal : HR Panel — Employee List, Daily Punches List, Appreciation Letter (Add/Edit), Warning Letter (Add/Edit), ID Card List
+→ Action Taken     : Integrated the new parent/child department dropdown across the listed forms and pages.
+→ Final Status     : Completed and deployed.
+
+*16. Parent-Department Search Behaviour Across Modules*
+→ Project / Portal : HR Panel — ID Card List, Employee List, Daily Punches List
+→ Action Taken     : Implemented the behaviour by which selecting a parent department also retrieves records belonging to every one of its child departments.
+→ Final Status     : Completed and deployed.
+
+*17. Content & Studio and Banner & Image — Report Type Standardization*
+→ Project / Portal : HR Panel — Report Configuration
+→ Action Taken     : Updated the report type to "Daily" for all 40 employees across the Content & Studio and Banner & Image teams.
+→ Final Status     : Completed and deployed.
+
+*18. Excel Extract — Punches Without Assigned Department*
+→ Project / Portal : HR Panel — Data Reconciliation
+→ Action Taken     : Generated an Excel file listing employees whose biometric punches are arriving but who have not yet been mapped to a department.
+→ Final Status     : Completed and shared.
+
+*19. Excel Extract — Inactive Employees With Active Punches*
+→ Project / Portal : HR Panel — Data Reconciliation
+→ Action Taken     : Generated an Excel file listing employees marked inactive in the HR panel whose biometric punches are still being recorded.
+→ Final Status     : Completed and shared.
+
+──────────────────────────────────────────────────────
+
+## 2. IN PROGRESS TASKS
+
+No tasks remained pending at the close of the reporting week. All 26 Zoho tasks allocated between 04 May and 08 May 2026 were completed and closed within the same week, though not always on the day of allocation.
+
+──────────────────────────────────────────────────────
+
+## 3. MEETINGS / DISCUSSIONS / REVIEWS
+
+**3.1 Internal Review — Advance Salary Pay Module**
+→ Date              : Tuesday, 05 May 2026
+→ Meeting Type      : Internal Review / Discussion
+→ Attendees         : Mr. Romit (Head — IT Department), Mr. Pratik (Admin & HR), Mr. Darshan (IT Department).
+→ Key Points / Decisions : Reviewed the existing Advance Salary Pay module. The recommended set of changes was discussed and finalised for implementation in the upcoming work cycle (see Section 5).
+
+In addition, internal technical recommendations were received and actioned during the week on two further items: the dashboard absent-count query (refined across two iterations on 06 May and 07 May) and the upcoming reporting roadmap noted in the 08 May daily update.
+
+──────────────────────────────────────────────────────
+
+## 4. TOTAL PORTALS / PROJECTS WORKED ON
+
+**Total: 1 portal (HR Panel) — spanning the following 17 modules:**
+
+• Dashboard
+• Late-In Report
+• Absent Report
+• Daily Report
+• Monthly Report
+• Daily Performance Report
+• Custom Daily Report
+• Daily Punches List
+• Employee Module (List, Add, Store, Export)
+• Permission Module
+• Department Module
+• Work Report Module
+• Appreciation Letter Module
+• Warning Letter Module
+• ID Card Module
+• Report Configuration (Content & Studio, Banner & Image)
+• Data Reconciliation (Excel extracts)
+
+──────────────────────────────────────────────────────
+
+## 5. UPCOMING WEEK — PLANNED TASKS
+
+In priority order, based on the next steps explicitly captured during the reporting week:
+
+**1. Advance Salary Pay Module — Recommended Changes**
+Implement the changes finalised in the internal review held on 05 May 2026 with Mr. Romit (IT Head) and Mr. Pratik (Admin & HR).
+
+**2. Monthly Absent, Early-In, Early-Out and OT Report**
+Design and build the consolidated monthly attendance report covering absent, early-in, early-out, and overtime data.
+
+**3. Monthly Summary Report**
+Develop a single summary report rolling up the month's key attendance and performance metrics.
+
+──────────────────────────────────────────────────────
+**END OF REPORT**
+──────────────────────────────────────────────────────

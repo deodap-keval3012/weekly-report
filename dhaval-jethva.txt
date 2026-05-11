@@ -1,0 +1,169 @@
+──────────────────────────────────────────────────────
+WEEKLY WORK REPORT
+──────────────────────────────────────────────────────
+Employee Name     : dhaval jethva
+Department / Role : 27 software development - core team
+Week              : 04 May 2026 – 09 May 2026
+──────────────────────────────────────────────────────
+
+1. COMPLETED TASKS
+
+• Dropshipping Website
+→ Collected new banner images and updated live homepage slider; implemented corrections and created admin panel for slide updates
+→ Plans page redesign with new content and images
+→ Final status: Live updates deployed successfully
+
+• Staff Portal (HRMS)
+→ Executed multiple HR support tasks including bulk employee updates (SIM numbers, department changes, verification status updates) and export utilities
+→ Final status: All requested operations completed and validated
+
+• Staff Portal (Reporting & Export Fixes)
+→ Resolved issues in bulk employee export and custom daily report (department-wise filtering and search-based export)
+→ Final status: Bugs fixed and verified with HR team
+
+• Care Panel
+→ Developed, tested, and deployed Gallabox ticket store API
+→ Final status: API successfully deployed and functionality explained to stakeholders
+
+• Care Panel Database
+→ Updated refund order issues mapped with FMS portal
+→ Final status: Data corrections completed
+
+• Staff Portal (Verification & Data Management)
+→ Removed duplicate employee records and completed bulk data cleanup activities
+→ Final status: Data consistency achieved
+
+• Jio True Connect Website
+→ Reviewed portal header details and shared required updates for suspension removal
+→ Final status: Review completed and communicated
+
+• Warehouse System (Vacalvers)
+→ Created AWS RDS restore point and restored warehouse database
+→ Final status: Database restored and updated successfully
+
+• Infrastructure / Setup Support
+→ Assisted in SSH key setup and project cloning on server
+→ Final status: Setup completed successfully
+
+• WH L175 Setup
+→ Completed warehouse/natation club setup
+→ Final status: Setup finalized
+
+2. IN PROGRESS TASKS
+
+• Staff Portal (Dashboard & Reports)
+→ Dashboard punch data mismatch with E-time reports under investigation
+→ Remaining: Data reconciliation and validation
+
+• Staff Portal (Aadhaar Data Extraction R&D)
+→ Research ongoing for extracting employee details from Aadhaar card images
+→ Remaining: Finalize approach (OCR/API) and implement solution
+
+• Staff Portal (Advanced Salary Module Modification)
+→ Requirement discussion completed; development not yet finalized
+→ Remaining: Full module development including permissions, reporting, and approval logic
+
+• Staff Portal (Role & Department-Based Reporting Enhancements)
+→ Review and partial updates completed
+→ Remaining: Final implementation for role-based export and department hierarchy integration
+
+• Cash Slip Module Integration
+→ Requirement understanding and existing module review completed
+→ Remaining: Adapt and integrate module with HRMS workflow
+
+• OMSGuru API
+→ Investigating order sync mismatches and API timing stack improvements
+→ Remaining: Resolve discrepancies and optimize API flow
+
+• Franchise Warehouse Setup (Lead Management)
+→ Requirement discussion completed for separate warehouse and data structuring
+→ Remaining: Data extraction, warehouse setup, and reporting implementation
+
+3. MEETINGS / DISCUSSIONS / REVIEWS
+
+• Internal Call – Tamanna Mam
+→ Discussed website slider dimensions, live review, and finalized plans page design content
+
+• Internal Meeting – Ashwin Bhai, Krish Bhai
+→ Detailed requirement discussion for Advanced Salary module and employee verification updates
+
+• Internal Call – Priyanka Mam
+→ Discussed Aadhaar-based employee name extraction in staff portal
+
+• Weekly IT Meeting – Vijay Bhai, Rahul Bhai, Darshan Bhai
+→ Reviewed True Connect updates, refund sync between Care & FMS portals, and staff portal enhancements
+
+• Internal Review Meeting – Darshan Bhai
+→ Reviewed completed staff portal tasks and progress
+
+• Internal Call – Ajit Bhai
+→ Discussed refund entry status update (on hold)
+
+• Internal Meeting – Dayaram Bhai
+→ Discussed Gallabox issue mapping and API request parameters
+
+• HR Team Meeting
+→ Covered employee verification, Aadhaar data validation, punch mismatch issues, and data cleanup progress
+
+• Training Session – Rahim Sir
+→ Attended “Ethics @ Home, Trust @ Work” training
+
+• Internal Call – Krish Bhai, Hemang Bhai
+→ Discussed integration of cash slip module into HR portal
+
+• Internal Meeting – Darshan Bhai
+→ Reviewed dashboard queries, permissions module redesign, and department hierarchy updates
+
+• Internal Meeting – Hemang Bhai
+→ Understood cash slip print tool and reviewed existing implementation
+
+• Internal Meeting – Prateek Bhai
+→ Discussed cash slip generation from Excel, QR-based payment flow, and HRMS integration
+
+• Internal Call – Lucky Bhai
+→ Discussed duplication issue in webhook calls and mitigation approach
+
+• Internal Call – Dayaram Bhai
+→ Finalized updates required for Gallabox ticket API parameters
+
+• Internal Call – Keval Bhai
+→ Discussed call monitoring flow changes and API/local storage design
+
+• Internal Call – Romit Sir, Vijay Bhai
+→ Planned database restore strategy and execution for warehouse system
+
+• Internal Meeting – Darshan Bhai
+→ Reviewed HR portal enhancements including level/grade, punch-based activation, and reporting updates
+
+• Internal Meeting – Samir Sir, Kanji Bhai, Jasmin Bhai
+→ Discussed new warehouse setup for franchise leads and reporting requirements
+
+• Internal Support Session – Keval Bhai
+→ Assisted with Git clone setup and SSH key configuration
+
+4. TOTAL PORTALS / PROJECTS WORKED ON
+
+Total: 9 portals / projects
+• Dropshipping Website
+• Staff Portal (HRMS)
+• Care Panel
+• FMS Portal
+• OMSGuru API
+• Vacalvers (Warehouse System)
+• Jio True Connect
+• Gallabox Integration
+• Franchise Lead Warehouse System
+
+5. UPCOMING WEEK — PLANNED TASKS
+
+• Resolve dashboard punch mismatch with E-time data in staff portal
+• Finalize Aadhaar data extraction approach and begin implementation
+• Start development of Advanced Salary module as per finalized requirements
+• Complete role-based and department-based reporting enhancements in staff portal
+• Resolve OMSGuru API order sync mismatches and optimize API timing logic
+• Implement and integrate cash slip module into HRMS system
+• Initiate setup and data structuring for franchise warehouse system
+
+──────────────────────────────────────────────────────
+END OF REPORT
+──────────────────────────────────────────────────────

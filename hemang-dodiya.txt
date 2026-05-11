@@ -1,0 +1,133 @@
+──────────────────────────────────────────────────────
+WEEKLY WORK REPORT
+──────────────────────────────────────────────────────
+Employee Name     : Hemang Dodiya
+Department / Role : IT / Developer
+Week              : 04/05/2026 – 09/05/2026
+──────────────────────────────────────────────────────
+
+1. COMPLETED TASKS
+
+• Project/Portal: FMS Project
+
+Action Taken: Implemented dynamic Edit Entry form logic for Credit and Debit sections, including change amount calculation, notes/coins handling, batch entry validation, available pool calculation, UI behavior updates, and real-time navigation bar cash display.
+Final Status/Outcome: Functionality completed and aligned with existing Delete Entry logic for consistent transaction handling.
+
+FMS Admin Panel – Ledger Batch Entry Management
+Action Taken: Added batch entry creation, user selection, section-based item selection, notes/coins integration, edit functionality, and delete functionality for ledger batch entries.
+Final Status/Outcome: Admin panel batch ledger management features completed and aligned with user panel behavior.
+
+
+FMS Admin Panel
+Action Taken: Investigated and resolved edit/delete issues by validating admin-side behavior against user-side entry flows.
+Final Status/Outcome: Admin panel edit and delete issues resolved successfully.
+
+FMS Reporting
+Action Taken: Retrieved ledger data for the period 28 April to 04 May for Harsha Ma’am’s account and generated Excel and PDF reports in the required standardized format.
+Final Status/Outcome: Reports generated and shared successfully.
+
+Action Taken: Reviewed old FMS project requirements and documented enhancement points and feature suggestions for the upcoming version.
+Final Status/Outcome: Requirement review and enhancement documentation completed.
+
+Action Taken: Modified Ledger Single Sheet logic to fetch notes and coins data from the `ledgercashbatch` table and corrected Net Balance breakdown calculations. Added permission-based control for Entry Date fields.
+Final Status/Outcome: Ledger calculation and permission functionality completed successfully.
+
+Action Taken: Resolved section entry creation issues related to `createdAt` date fields, fixed dropdown opening issues, and updated panel field names as per requirements.
+Final Status/Outcome: FMS entry creation and UI issues resolved successfully.
+
+
+• Project/Portal: Billing Panel / Care Panel
+
+Action Taken: Added new billing reason “Order Cancelled - Out Of Stock” in Refund and CRN reason tables and coordinated synchronization with the Care Panel.
+Final Status/Outcome: Billing  panel sync refund/crn reason with care panel completed successfully.
+
+Shopify Integration – Natation Store
+Action Taken: Coordinated API access token generation using API Key and Secret Key, configured redirect URL, and shared generated access token with the concerned team member.
+Final Status/Outcome: Shopify access token setup successfully completed for the Natation Store.
+
+
+Action Taken: Configured new Claude access for the R&D department, replaced old API credentials, and validated Claude integration within the VS Code command terminal.
+Final Status/Outcome: Claude access configuration and integration testing completed successfully.
+
+Action Taken: Shared redirect URL configuration required for access token generation setup in the new store environment to vijay bhai
+Final Status/Outcome: Redirect URL setup details provided successfully.
+
+- Oblivion Data Fetching Issue
+Action Taken: Issue analysis and solution review and configuration of the new scope to fetch Oblivion orders older than two months of shopify order.
+Final Status/Outcome: Fetching 2 month before Oblivion data successfully
+
+• Project/Portal: Cash Slip Tool
+
+Action Taken: Added Bank Name and Department Name fields, updated controller validations, modified Blade slip layout, adjusted margins, and reviewed module structure and implementation flow.
+Final Status/Outcome: Updated Cash Slip format prepared and shared for approval prior to deployment.
+
+2. IN PROGRESS TASKS
+
+• Project/Portal: Billing Panel
+Current Stage: Dashboard variation generation and layout enhancement phase completed partially.
+Remaining Work: Further implementation and refinement of Billing Panel dashboards using Claude-generated layouts and configurations.
+
+
+3. MEETINGS / DISCUSSIONS / REVIEWS
+
+• Internal Weekly IT Meeting
+Attendees/Teams: IT Team
+Key Discussion Points: Discussed Care Panel and Billing Panel requirements, including clarification on Refund and CRN reason selection logic and related operational topics.
+
+• Internal Discussion – FMS Reporting
+Attendees/Teams: Harsha Ma’am
+Key Discussion Points: Discussed Excel and PDF report generation requirements for ledger data based on a specified date range.
+
+• Internal Discussion – Billing & Care Panel Synchronization
+Attendees/Teams: Gaurav Bhai, Dhaval Bhai
+Key Discussion Points: Discussed implementation of the new Refund and CRN billing reason and synchronization of missing reasons within the Care Panel.
+
+
+• Internal Discussion – Cash Slip Enhancement
+Attendees/Teams: Krish Bhai, Afzal Bhai
+Key Discussion Points: Discussed Cash Slip confirmation requirements and inclusion of additional fields.
+
+• Internal Discussion – Cash Slip Flow
+Attendees/Teams: Dhaval Bhai
+Key Discussion Points: Reviewed flow of controller logic, module and Blade structure implementation for the Cash Slip.
+
+• Internal Discussion – Oblivion Data Fetching Issue & Oblivion Order Scope Enhancement
+Attendees/Teams: Anish Bhai, Karan Bhai ,Gaurav Bhai
+Key Discussion Points: Reviewed issues related to February data not being fetched in Oblivion and evaluated possible resolution approaches and configuration of a new read-all-orders scope to fetch older Oblivion order data.
+
+• Internal Discussion – FMS Project Improvements
+Attendees/Teams: Harsha Ma’am
+Key Discussion Points: Reviewed old FMS project demo and discussed enhancement requirements for the new version.
+
+• Internal Discussion – Claude Configuration & Dashboard Testing
+Attendees/Teams: Karan Bhai, Karan Bhai Nukani
+Key Discussion Points: Discussed Claude access configuration and dashboard generation testing using Claude in VS Code.
+
+• Internal Discussion – FMS Ledger Issues
+Attendees/Teams: Harsha Ma’am
+Key Discussion Points: Discussed ledger and section entry creation issues within the FMS project.
+
+• Internal Discussion – HelloBoy Integration Setup
+Attendees/Teams: Vijay Bhai
+Key Discussion Points: Discussed redirect URL configuration and access token setup for the HelloBoy integration.
+
+4. TOTAL PORTALS / PROJECTS WORKED ON
+
+Total: 3 portals / projects
+
+• FMS Project
+• Billing Panel
+• Cash Slip Tool
+
+5. UPCOMING WEEK — PLANNED TASKS
+
+• Continue implementation and refinement of Billing Panel dashboard layouts and configurations generated using Claude integration.
+
+
+• Start implementation Fms dashboard layouts and configurations generated using Claude integration.
+
+• Continue enhancement planning and implementation activities for the upcoming version of the FMS project.
+
+──────────────────────────────────────────────────────
+END OF REPORT
+──────────────────────────────────────────────────────
